@@ -1,3 +1,5 @@
+Project Title: Car Rental Application with Django Framework 
+
 Project Implemented by:
 
 Name: Babisha.K
